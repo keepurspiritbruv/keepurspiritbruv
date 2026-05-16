@@ -36,7 +36,7 @@
 <!-- About Section -->
 <h2 style="border-bottom: none;">😎 Hi, I'm Dhimas!</h2>
 
-&nbsp;&nbsp;&nbsp;I build things for the web and beyond — from fullstack apps to IoT systems, and anything that catches my curiosity :)
+&nbsp;&nbsp;&nbsp;I build things for the web and beyond from fullstack apps to IoT systems, and anything that catches my curiosity :)
 
 <br>
 
