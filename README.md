@@ -49,42 +49,6 @@
 
 ---
 
-<!-- Featured Projects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### Coastal Early Warning Dashboard
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### IoT Sensor Network System
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Explainable AI Module (SHAP)
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### WhatsApp Alert Bot
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Tech Stack
 
