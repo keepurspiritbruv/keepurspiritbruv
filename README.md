@@ -31,14 +31,10 @@
 
 </div>
 
-<br>
-
 <!-- About Section -->
 <h3>&nbsp;😎 Hi, I'm Dhimas!</h3>
 
 &nbsp;&nbsp;&nbsp;I build things for the web and beyond from fullstack apps to IoT systems, and anything that catches my curiosity :)
-
-<br>
 
 <!-- Portfolio -->
 <h3>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Portfolio</h3>
@@ -48,8 +44,6 @@
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-1e40af?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e40af" alt="Portfolio" />
   </a>
 </div>
-
-<br>
 
 <!-- Tech Stack -->
 <h3>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Tech Stack</h3>
@@ -78,16 +72,12 @@
 
 </div>
 
-<br>
-
 <!-- GitHub Stats -->
 <h3>&nbsp;🔥 Contribution Streak</h3>
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=keepurspiritbruv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution Streak" />
 </div>
-
-<br>
 
 <!-- Footer -->
 <div align="center">
