@@ -25,10 +25,6 @@
   <a href="https://www.instagram.com/dhms._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
   </a>
-  &nbsp;
-  <a href="https://murguyporto.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
-  </a>
 </p>
 
 ---
@@ -36,13 +32,20 @@
 </div>
 
 <!-- About Section -->
-## 😎 About Me
+## 😎 Hi, I'm Dhimas!
 
-&nbsp;&nbsp;&nbsp;A software engineer and researcher focused on building production-grade systems that combine **AI/ML**, **IoT infrastructure**, and **modern web technologies**.
+&nbsp;&nbsp;&nbsp;I build things for the web and beyond — from fullstack apps to IoT systems, and anything that catches my curiosity :)
 
-&nbsp;&nbsp;&nbsp;Currently exploring **coastal disaster early warning systems** powered by explainable AI, real-time sensor networks, and multi-channel alert delivery. Passionate about applied research and building tools that create tangible impact.
+---
 
-&nbsp;&nbsp;&nbsp;I design systems end-to-end &mdash; from **embedded firmware** on microcontrollers to **scalable backend architectures** and **interactive frontends**.
+<!-- Portfolio -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Portfolio
+
+<div align="center">
+  <a href="https://murguyporto.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-1e40af?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e40af" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
