@@ -36,27 +36,13 @@
 </div>
 
 <!-- About Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Technologist.png" alt="." width="28" height="28" style="vertical-align:middle;" /> About Me
-
-<table>
-<tr>
-<td width="40%" align="center">
-
-<!-- REPLACE THE URL BELOW WITH YOUR PHOTO URL -->
-<img src="YOUR_PHOTO_URL_HERE" alt="Profile Photo" width="280" style="border-radius: 12px;" />
-
-</td>
-<td width="60%">
+## 😎 About Me
 
 &nbsp;&nbsp;&nbsp;A software engineer and researcher focused on building production-grade systems that combine **AI/ML**, **IoT infrastructure**, and **modern web technologies**.
 
 &nbsp;&nbsp;&nbsp;Currently exploring **coastal disaster early warning systems** powered by explainable AI, real-time sensor networks, and multi-channel alert delivery. Passionate about applied research and building tools that create tangible impact.
 
 &nbsp;&nbsp;&nbsp;I design systems end-to-end &mdash; from **embedded firmware** on microcontrollers to **scalable backend architectures** and **interactive frontends**.
-
-</td>
-</tr>
-</table>
 
 <p align="right"><a href="#top">↑</a></p>
 
@@ -132,7 +118,7 @@
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=keepurspiritbruv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution Streak" />
@@ -142,36 +128,8 @@
 
 ---
 
-<!-- Contact / Footer -->
+<!-- Footer -->
 <div align="center">
-
----
-
-### Get In Touch
-
-<p>
-  <a href="https://www.linkedin.com/in/dhimasnp" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:dhimasnurhanindya@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/dhms._" target="_blank">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/keepurspiritbruv">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://murguyporto.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
-  </a>
-</p>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e2e,50:161b22,100:0d1117&height=100&section=footer" />
 
