@@ -44,8 +44,6 @@
 
 &nbsp;&nbsp;&nbsp;I design systems end-to-end &mdash; from **embedded firmware** on microcontrollers to **scalable backend architectures** and **interactive frontends**.
 
-<p align="right"><a href="#top">↑</a></p>
-
 ---
 
 <!-- Featured Projects -->
@@ -82,8 +80,6 @@
 </tr>
 </table>
 
-<p align="right"><a href="#top">↑</a></p>
-
 ---
 
 <!-- Tech Stack -->
@@ -113,8 +109,6 @@
 
 </div>
 
-<p align="right"><a href="#top">↑</a></p>
-
 ---
 
 <!-- GitHub Stats -->
@@ -123,8 +117,6 @@
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=keepurspiritbruv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution Streak" />
 </div>
-
-<p align="right"><a href="#top">↑</a></p>
 
 ---
 
