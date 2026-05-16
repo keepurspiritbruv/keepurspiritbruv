@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1e2e&height=220&section=header&text=&fontSize=0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f2557,100:1e40af&height=140&section=header&text=&fontSize=0&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Developer;AI+%2F+ML+Research+Engineer;IoT+%26+Embedded+Systems;Disaster+Early+Warning+Systems" alt="Typing SVG" />
@@ -131,6 +131,6 @@
 <!-- Footer -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e2e,50:161b22,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:0f2557,100:0f172a&height=80&section=footer" />
 
 </div>
