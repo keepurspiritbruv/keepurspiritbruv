@@ -34,14 +34,14 @@
 <br>
 
 <!-- About Section -->
-<h2 style="border-bottom: none;">😎 Hi, I'm Dhimas!</h2>
+<h3>&nbsp;😎 Hi, I'm Dhimas!</h3>
 
 &nbsp;&nbsp;&nbsp;I build things for the web and beyond from fullstack apps to IoT systems, and anything that catches my curiosity :)
 
 <br>
 
 <!-- Portfolio -->
-<h2 style="border-bottom: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Portfolio</h2>
+<h3>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Portfolio</h3>
 
 <div align="center">
   <a href="https://murguyporto.vercel.app/" target="_blank">
@@ -52,7 +52,7 @@
 <br>
 
 <!-- Tech Stack -->
-<h2 style="border-bottom: none;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Tech Stack</h2>
+<h3>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="." width="26" height="26" style="vertical-align:middle;" /> Tech Stack</h3>
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 <br>
 
 <!-- GitHub Stats -->
-<h2 style="border-bottom: none;">🔥 Contribution Streak</h2>
+<h3>&nbsp;🔥 Contribution Streak</h3>
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=keepurspiritbruv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution Streak" />
