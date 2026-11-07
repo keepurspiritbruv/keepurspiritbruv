@@ -1,3 +1,48 @@
+## Selected work
+
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=keepurspiritbruv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110213232%3Fu%3Da6b789bbe74093ff02eac2ebeacfc5cd3b7fc681%26v%3D4" alt="keepurspiritbruv hero visual" />
+</p>
+
+<p><b>Freelance developer or consultant</b></p>
+
+</div>
+
+## The idea behind the work
+
+> kiw kiw
+
+- 📍 Based in **Sleman, Daerah Istimewa Yogyakarta**
+- 🏢 Working at **Universitas Gadjah Mada**
+- 👥 **0** followers · **2** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/jastipmurguy">jastipmurguy</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/portooooo">portooooo</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/AnomalyDetectionLSTM">AnomalyDetectionLSTM</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Jupyter Notebook · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/skripsi-latex">skripsi-latex</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TeX · 0 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+`TeX` ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) `Jupyter Notebook` `BibTeX Style` ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=keepurspiritbruv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110213232%3Fu%3Da6b789bbe74093ff02eac2ebeacfc5cd3b7fc681%26v%3D4" alt="keepurspiritbruv social visual" />
+</p>
+
+<a href="https://github.com/keepurspiritbruv">GitHub</a>
+
+<p align="center"><sub>Dhimas Nurhanindya Putra · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
 <!-- Hallmark · pre-emit critique: P5 H5 E4 S5 R5 V4 -->
 
 <a id="top"></a>
@@ -47,6 +92,12 @@ A notebook-inspired home for my projects, experience, and the things I’m learn
 <p><strong>Web</strong> · React · TypeScript · Next.js · Node.js<br>
 <strong>ML & data</strong> · Python · TensorFlow · scikit-learn<br>
 <strong>Connected systems</strong> · ESP32 · MQTT · Docker</p>
+
+<h3>🔥 Contribution Streak</h3>
+
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=keepurspiritbruv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution Streak" />
+</div>
 
 <div align="center">
 
