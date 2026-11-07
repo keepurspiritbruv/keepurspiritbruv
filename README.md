@@ -9,19 +9,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keepurspiritbruv&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="keepurspiritbruv's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=keepurspiritbruv&theme=nightowl&hide_border=true&cache_seconds=86400" alt="keepurspiritbruv's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepurspiritbruv&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keepurspiritbruv&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dhimas Nurhanindya Putra's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=keepurspiritbruv&theme=nightowl&radius=10" alt="keepurspiritbruv's Activity Graph" />
-</p>
 
 ## 🛠️ Languages & Tools
 
