@@ -1,106 +1,66 @@
-## Selected work
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Dhimas Nurhanindya Putra</h1>
 
-<div align="center">
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=keepurspiritbruv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110213232%3Fu%3Da6b789bbe74093ff02eac2ebeacfc5cd3b7fc681%26v%3D4" alt="keepurspiritbruv hero visual" />
-</p>
+## 📌 About Me
 
-<p><b>Freelance developer or consultant</b></p>
+- 💡 <em>I build software connecting weather data, machine learning, and real-time tools, including full-stack and IoT systems.</em>
 
-</div>
-
-## The idea behind the work
-
-> kiw kiw
-
-- 📍 Based in **Sleman, Daerah Istimewa Yogyakarta**
-- 🏢 Working at **Universitas Gadjah Mada**
-- 👥 **0** followers · **2** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/jastipmurguy">jastipmurguy</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/portooooo">portooooo</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/AnomalyDetectionLSTM">AnomalyDetectionLSTM</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Jupyter Notebook · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/keepurspiritbruv/skripsi-latex">skripsi-latex</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TeX · 0 stars</sub></td></tr>
-</table>
-
-## Creative toolkit
-
-`TeX` ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) `Jupyter Notebook` `BibTeX Style` ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-## Make something memorable
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=keepurspiritbruv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110213232%3Fu%3Da6b789bbe74093ff02eac2ebeacfc5cd3b7fc681%26v%3D4" alt="keepurspiritbruv social visual" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keepurspiritbruv&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="keepurspiritbruv's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=keepurspiritbruv&theme=nightowl&hide_border=true&cache_seconds=86400" alt="keepurspiritbruv's GitHub Streak" width="49%" />
 </p>
 
-<a href="https://github.com/keepurspiritbruv">GitHub</a>
-
-<p align="center"><sub>Dhimas Nurhanindya Putra · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
-<!-- Hallmark · pre-emit critique: P5 H5 E4 S5 R5 V4 -->
-
-<a id="top"></a>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:142b2a,50:315c4d,100:d2a65a&height=155&section=header&text=DHIMAS%20NURHANINDYA%20PUTRA&fontSize=28&fontColor=f5f0df&fontAlignY=40&desc=Weather%20data%20%E2%86%92%20useful%20alerts&descSize=16&descAlignY=64&animation=fadeIn" alt="Dhimas Nurhanindya Putra — weather data to useful alerts" />
-
-<p><strong>Software engineer · UGM graduate · Yogyakarta, Indonesia</strong></p>
-
-<p>I build software that connects weather data, machine learning, and real-time tools to help people make sense of changing conditions.</p>
-
-<p>
-  <a href="https://murguyporto.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/dhimasnp">LinkedIn</a> ·
-  <a href="mailto:dhimasnurhanindya@gmail.com">Email</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepurspiritbruv&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keepurspiritbruv&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dhimas Nurhanindya Putra's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=keepurspiritbruv&theme=nightowl&radius=10" alt="keepurspiritbruv's Activity Graph" />
 </p>
 
-</div>
+## 🛠️ Languages & Tools
 
----
+> ## Programming Languages
 
-<h3>Selected work</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
 
-<h4>🌦️ Local weather warnings for fishers</h4>
+> ## Frontend
 
-An early-warning system that brings local weather signs and BMKG data together with machine-learning risk scoring and real-time alerts for coastal communities.
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
 
-<a href="https://github.com/keepurspiritbruv/peringatancuacav3">Explore the system ↗</a>
+> ## Backend
 
-<h4>📡 Miniweather anomaly detection</h4>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
 
-A weather-station pipeline that scores heavy-rain and strong-wind anomalies from IoT data, then sends warnings to a dashboard.
+> ## Database
 
-<a href="https://github.com/keepurspiritbruv/miniweather-ml-warning-service">Warning service ↗</a> · <a href="https://github.com/keepurspiritbruv/AnomalyDetectionLSTM">Model research ↗</a>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-<h4>📓 My portfolio</h4>
+> ## DevOps & Cloud
 
-A notebook-inspired home for my projects, experience, and the things I’m learning.
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
 
-<a href="https://murguyporto.vercel.app/">Visit the portfolio ↗</a> · <a href="https://github.com/keepurspiritbruv/portoooo">Source code ↗</a>
+> ## Tools
 
----
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-<h3>Tools I reach for</h3>
+## 🔗 Connect with Me
 
-<p><strong>Web</strong> · React · TypeScript · Next.js · Node.js<br>
-<strong>ML & data</strong> · Python · TensorFlow · scikit-learn<br>
-<strong>Connected systems</strong> · ESP32 · MQTT · Docker</p>
+<p align="center"><a href="https://www.linkedin.com/in/dhimasnp" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:dhimasnurhanindya@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://murguyporto.vercel.app/" target="_blank"><img src="https://murguyporto.vercel.app/assets/result-wM7va79WLO-B8eN4maR.jpg" alt="Portfolio" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<h3>🔥 Contribution Streak</h3>
-
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=keepurspiritbruv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution Streak" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
-
-<sub>Curious by default. Currently exploring the space between software, data, and the physical world.</sub>
-
+  <!---->
 </div>
+
+<p align="center"><sub>Dhimas Nurhanindya Putra</sub></p>
